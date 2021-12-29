@@ -1,10 +1,10 @@
 # __Oleg Ponomarenko__
-====================
-##  __*Contacts:__
+===========================
+##  __Contacts:__
 
-     + Tel: +375291061626
-     + Discord: Oleg.Ponomarenko
-     + E-mail: ol2838@mail.ru
+    * Tel: +375291061626
+    * Discord: Oleg.Ponomarenko
+    * E-mail: ol2838@mail.ru
 
 ##  __About myself:__
 
@@ -28,6 +28,6 @@
 
     Belarusian State University of Informatics and Radioelectronics.
 
-##  __*English level:__
+##  __English level:__
 
-     + B1
+    B1
